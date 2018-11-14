@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.9",
+    "mongoose": "^5.3.12"
+  },
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "This is a simple Api Test",
+  "main": "app.js",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test\\\" && exit 1",
+    "start": "node start.js"
+  },
+  "author": "Mihnea Radu",
+  "license": "ISC"
+}

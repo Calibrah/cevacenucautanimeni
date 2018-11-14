@@ -1,0 +1,56 @@
+[
+  {
+    "index": 0,
+    "balance": "$3,712.50",
+    "age": 33,
+    "eyeColor": "green",
+    "name": "Gilbert Sanchez",
+    "gender": "male",
+    "favoriteFruit": "banana"
+  },
+  {
+    "index": 1,
+    "balance": "$2,042.38",
+    "age": 24,
+    "eyeColor": "blue",
+    "name": "Carey Lyons",
+    "gender": "male",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "index": 2,
+    "balance": "$3,224.89",
+    "age": 20,
+    "eyeColor": "green",
+    "name": "Paula Simmons",
+    "gender": "female",
+    "favoriteFruit": "apple"
+  },
+  {
+    "index": 3,
+    "balance": "$3,179.88",
+    "age": 36,
+    "eyeColor": "green",
+    "name": "Lola Potter",
+    "gender": "female",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "index": 4,
+    "balance": "$2,018.77",
+    "age": 22,
+    "eyeColor": "brown",
+    "name": "Della Haney",
+    "gender": "female",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "index": 5,
+    "balance": "$3,638.72",
+    "age": 22,
+    "eyeColor": "green",
+    "name": "Eddie Pena",
+    "gender": "female",
+    "favoriteFruit": "banana"
+  }
+]
